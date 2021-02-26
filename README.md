@@ -1,6 +1,6 @@
 ### Hello Folks, I'm Adishi👋
 "Learning never exhausts the mind" -Leonardo Da Vinci
-- 🔭 I’m currently working on different frontend and backend projects.
+- 🔭 I’m currently working on different front-end and back-end projects.
 - 🌱 I’m currently learning new things.
 - ⚡ Fun fact **I love to get clicked📸**
 
