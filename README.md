@@ -1,4 +1,4 @@
-### Hello Folks, I'm Adishi👋
+### Hello Folks, I'm Adishi Sood 🖐️ 🖐️ 
 "Learning never exhausts the mind" -Leonardo Da Vinci
 - 🔭 I’m currently working on different front-end and back-end projects.
 - 🌱 I’m currently learning new things.
