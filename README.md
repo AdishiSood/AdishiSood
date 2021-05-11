@@ -1,7 +1,7 @@
 ### Hello Folks, I'm Adishi Sood 🖐️ 🖐️ 
 "Learning never exhausts the mind" -Leonardo Da Vinci
 - 🔭 I’m currently working on different front-end and back-end projects.
-- 🌱 I’m currently learning **Spring and Hibernate**.
+- 🌱 I’m currently learning **Spring Framework and Hibernate**.
 - ⚡ Fun fact **I love to get clicked📸**
 
 
