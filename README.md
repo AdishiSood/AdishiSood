@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adishi Sood</h1>
 <h3 align="center">Student at Chitkara University, Punjab🌟.</h3>
 <br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="AdishiSood" /> </p>
+<p align="right"> <h3>Profile Views : <sub> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="AdishiSood" /> </sub></h3>
+</p>
+
 
 ## ✍🏻 Blog & Writing
 Apart from coding I also maintain a blog - you can find my articles on my website [Trends Network](https://trends-network.blogspot.com/)
@@ -57,6 +59,13 @@ Apart from coding I also maintain a blog - you can find my articles on my websit
       alt="nodejs" width="40" height="40" /> </a>  </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> 
+      <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+      src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
+      alt="Angular" width="40" height="40" /> </a> 
+      <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+      src="https://ammarjaved.com/storage/posts/what-is-angularjs.png"
+      alt="AngularJs" width="80" height="40" /> </a> 
+ 
 
 <br>
 
