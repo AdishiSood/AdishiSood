@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adishi Sood</h1>
-<h3 align="center">Student at Chitkara University, Punjab🌟.</h3>
 <br>
 <p align="right"> <h3>Profile Views : <sub> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="AdishiSood" /> </sub></h3>
 </p>
