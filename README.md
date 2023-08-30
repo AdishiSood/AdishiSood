@@ -12,7 +12,7 @@ Apart from coding I also maintain a blog - you can find my articles on my websit
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently working as a full stack developer and other different new technologies
+- 🌱 I’m currently working as a full stack developer and learning different new technologies
 
 - 📫 How to reach me **adishisood@gmail.com**
 
